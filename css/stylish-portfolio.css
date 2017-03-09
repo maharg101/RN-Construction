@@ -201,7 +201,6 @@ hr.small {
 
 .portfolio-item {
     margin-bottom: 30px;
-    -webkit-tap-highlight-color: rgba(0, 0, 0, 0); /* disable on portfolio items */
 }
 
 .img-portfolio {
